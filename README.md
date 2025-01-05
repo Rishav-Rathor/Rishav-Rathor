@@ -25,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishav-rathor&show_icons=true&locale=en&layout=compact" alt="rishav-rathor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-rathor&show_icons=true&locale=en" alt="rishav-rathor" /></p>
+
+![GitHub Snake Animation](https://github.com/Rishav-Rathor/Rishav-Rathor/blob/output/snake.svg)
