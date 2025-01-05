@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav-rathor&show_icons=true&locale=en" alt="rishav-rathor" /></p>
 
-<img src="https://raw.githubusercontent.com/Rishav-Rathor/Rishav-Rathor/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Animation](https://github.com/Rishav-Rathor/Rishav-Rathor/blob/output/snake.svg)
