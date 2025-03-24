@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-rathor" alt="rishav-rathor" /></a> </p>
 
-- 🔭 I’m currently working on **Generative AI and Large Language Models (LLM)  **
+- 🔭 I’m currently working on **Generative AI and Large Language Models (LLM)**
 
 - 🌱 I’m currently learning **Data Science and ML**
 
