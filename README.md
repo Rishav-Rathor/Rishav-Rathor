@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rishav Rathor</h1>
 <h3 align="center">A passionate ML Model's Explorer and Frontend Developer</h3>
 
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=rishav-rathor&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-rathor" /></p>
+<p align="left">
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=rishav-rathor&label=PROFILE+VIEWS&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishav-rathor" alt="rishav-rathor" /></a> </p>
+<p align="left">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=rishav-rathor&theme=flat&no-frame=true&margin-w=5&margin-h=5" alt="rishav-rathor" />
+</p>
+
 
 - 🔭 I’m currently working on **Generative AI and Large Language Models (LLM)**
 
